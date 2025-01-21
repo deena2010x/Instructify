@@ -3,6 +3,7 @@
 **E-Learning Platform**
 
 **Overview** 
+
 This project is a comprehensive e-learning platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed to facilitate online learning by managing courses, users, and communications between instructors and students. It offers a feature-rich, interactive experience that supports multimedia content, real-time interaction, and secure user management.
 
 **Detailed Features**  
